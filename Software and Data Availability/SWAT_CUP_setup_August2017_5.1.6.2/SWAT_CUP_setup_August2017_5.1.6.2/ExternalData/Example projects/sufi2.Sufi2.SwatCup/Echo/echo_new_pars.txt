@@ -1,0 +1,103 @@
+---------------- reading observed data -----------------------------
+total number of variables=  4
+obj fn type=  5
+
+---- reading goal.txt
+no_pars=  4
+no_Sims=  8
+type_of_goal_fn=  Nash_Sutcliff
+
+1   1:R__CN2.mgt
+2   2:V__ALPHA_BF.gw
+3   3:V__GW_DELAY.gw
+4   4:V__GWQMN.gw
+---------------   parameters   ---------------
+
+-------  average, variance and type of goal function  ---------------
+
+average of goal  = -0.670429
+Variance of goal = 1.791410
+Type of goal function = Nash_Sutcliff
+
+---------------average and variance of parameters---------------
+          avg_par      var_par
+   1    -0.000000     0.015000
+   2     0.500000     0.093750
+   3   240.000000 16537.500000
+   4     1.000000     0.375000
+
+count = 28  jrow= 28
+--------------------------- Jacobian  -----------------
+
+****** end of Jacobian *******
+
+---------------------- best parameters ---------------
+
+    0                    goal_value    0.000000    0.000000    0.000000
+    0                    goal_value    0.000000    0.000000    0.000000
+    0                    goal_value    0.000000    0.000000    0.000000
+    0                    goal_value    0.000000    0.000000    0.000000
+
+
+--------------------------- Sensitivity -----------------
+   1               3:V__GW_DELAY.gw     2.783626
+   2                  4:V__GWQMN.gw     2.395384
+   3               2:V__ALPHA_BF.gw     1.796495
+   4                   1:R__CN2.mgt     0.000000
+
+---------------------- J^TJ -----------------
+1   7.1007e+0031   1.6018e+0031  -2.8220e+0001   3.2328e+002
+2   1.6018e+0032   1.4710e+0032  -1.5516e+0002   8.8668e+001
+3  -2.8220e+0003  -1.5516e+0003   1.4931e-0023  -5.2722e-001
+4   3.2328e+0024   8.8668e+0014  -5.2722e-0014   5.7097e+002
+
+--------------decomposing matrix-----------------
+---------------------- JTJI -----------------
+    1.92501e-004    -1.90600e-004     1.42377e-002    -6.62468e-005 
+   -1.90600e-004     9.53402e-004     6.37106e-002     1.86865e-005 
+    1.42377e-002     6.37106e-002     7.82038e+001     5.42564e-002 
+   -6.62468e-005     1.86865e-005     5.42564e-002     1.83612e-003 
+
+---------------------- Covariance matrix C -----------------
+                                 1:R__CN2.mgt               2:V__ALPHA_BF.gw               3:V__GW_DELAY.gw                  4:V__GWQMN.gw 
+                  1:R__CN2.mgt     3.44847e-004    -3.41442e-004     2.55055e-002    -1.18675e-004 
+              2:V__ALPHA_BF.gw    -3.41442e-004     1.70793e-003     1.14132e-001     3.34751e-005 
+              3:V__GW_DELAY.gw     2.55055e-002     1.14132e-001     1.40095e+002     9.71955e-002 
+                 4:V__GWQMN.gw    -1.18675e-004     3.34751e-005     9.71955e-002     3.28925e-003 
+
+---------------------- correlation matrix -----------------
+
+                                 1:R__CN2.mgt               2:V__ALPHA_BF.gw               3:V__GW_DELAY.gw                  4:V__GWQMN.gw 
+                  1:R__CN2.mgt     1.00000e+000 
+              2:V__ALPHA_BF.gw    -4.44905e-001     1.00000e+000 
+              3:V__GW_DELAY.gw     1.16040e-001     2.33324e-001     1.00000e+000 
+                 4:V__GWQMN.gw    -1.11429e-001     1.41234e-002     1.43181e-001     1.00000e+000 
+
+---------------------- confidence limits ---------------
+1                    1:R__CN2.mgt    0.059090
+2                2:V__ALPHA_BF.gw    0.131503
+3                3:V__GW_DELAY.gw    37.662697
+4                   4:V__GWQMN.gw    0.182494
+
+------------------ reading par_inf.txt-------
+number of parameters=   4
+number of simulation=   8
+
+1  r__CN2.mgt                    
+2  v__ALPHA_BF.gw                
+3  v__GW_DELAY.gw                
+4  v__GWQMN.gw                   
+
+---------------------------------------------
+
+-----------------------------------------------------
+print the best parameters along with the sorted best
+-----------------------------------------------------
+        best_par   sorted_best_par
+
+par_no                                par_name         new_min      new_max
+------------------------------------------------------------------------
+1                r__CN2.mgt          -0.059090     0.059090
+2            v__ALPHA_BF.gw          -0.131503     0.131503
+3            v__GW_DELAY.gw         -37.662697    37.662697
+4               v__GWQMN.gw          -0.182494     0.182494

@@ -1,0 +1,214 @@
+Echo of extract_ALL_hru_No_obs.exe
+----------------------------------------
+Max. size of arrays:
+Max number of observed variables= 30
+Max number of subbasins=          50,000
+Max number of observed data=      50,000
+----------------------------------------
+
+swat-cup program=   PSO
+swat file name=   output.hru
+number of variables= 3
+column number of variables=  11  14  16  
+variable names=  H-PET   H-SW   H-GW_RCHG   
+total subbasins in the project= 20
+total reaches in the project= 38
+beg_sim_year=  1990
+end_sim_year=  2001
+time_step=  2
+--------------------  end of reading def file --------------
+file name 1= PSO.OUT/H-PET_1.txt
+file name 1= PSO.OUT/H-PET_2.txt
+file name 1= PSO.OUT/H-PET_3.txt
+file name 1= PSO.OUT/H-PET_4.txt
+file name 1= PSO.OUT/H-PET_5.txt
+file name 1= PSO.OUT/H-PET_6.txt
+file name 1= PSO.OUT/H-PET_7.txt
+file name 1= PSO.OUT/H-PET_8.txt
+file name 1= PSO.OUT/H-PET_9.txt
+file name 1= PSO.OUT/H-PET_10.txt
+file name 1= PSO.OUT/H-PET_11.txt
+file name 1= PSO.OUT/H-PET_12.txt
+file name 1= PSO.OUT/H-PET_13.txt
+file name 1= PSO.OUT/H-PET_14.txt
+file name 1= PSO.OUT/H-PET_15.txt
+file name 1= PSO.OUT/H-PET_16.txt
+file name 1= PSO.OUT/H-PET_17.txt
+file name 1= PSO.OUT/H-PET_18.txt
+file name 1= PSO.OUT/H-PET_19.txt
+file name 1= PSO.OUT/H-PET_20.txt
+file name 1= PSO.OUT/H-PET_21.txt
+file name 1= PSO.OUT/H-PET_22.txt
+file name 1= PSO.OUT/H-PET_23.txt
+file name 1= PSO.OUT/H-PET_24.txt
+file name 1= PSO.OUT/H-PET_25.txt
+file name 1= PSO.OUT/H-PET_26.txt
+file name 1= PSO.OUT/H-PET_27.txt
+file name 1= PSO.OUT/H-PET_28.txt
+file name 1= PSO.OUT/H-PET_29.txt
+file name 1= PSO.OUT/H-PET_30.txt
+file name 1= PSO.OUT/H-PET_31.txt
+file name 1= PSO.OUT/H-PET_32.txt
+file name 1= PSO.OUT/H-PET_33.txt
+file name 1= PSO.OUT/H-PET_34.txt
+file name 1= PSO.OUT/H-PET_35.txt
+file name 1= PSO.OUT/H-PET_36.txt
+file name 1= PSO.OUT/H-PET_37.txt
+file name 1= PSO.OUT/H-PET_38.txt
+file name 2= PSO.OUT/H-SW_1.txt
+file name 2= PSO.OUT/H-SW_2.txt
+file name 2= PSO.OUT/H-SW_3.txt
+file name 2= PSO.OUT/H-SW_4.txt
+file name 2= PSO.OUT/H-SW_5.txt
+file name 2= PSO.OUT/H-SW_6.txt
+file name 2= PSO.OUT/H-SW_7.txt
+file name 2= PSO.OUT/H-SW_8.txt
+file name 2= PSO.OUT/H-SW_9.txt
+file name 2= PSO.OUT/H-SW_10.txt
+file name 2= PSO.OUT/H-SW_11.txt
+file name 2= PSO.OUT/H-SW_12.txt
+file name 2= PSO.OUT/H-SW_13.txt
+file name 2= PSO.OUT/H-SW_14.txt
+file name 2= PSO.OUT/H-SW_15.txt
+file name 2= PSO.OUT/H-SW_16.txt
+file name 2= PSO.OUT/H-SW_17.txt
+file name 2= PSO.OUT/H-SW_18.txt
+file name 2= PSO.OUT/H-SW_19.txt
+file name 2= PSO.OUT/H-SW_20.txt
+file name 2= PSO.OUT/H-SW_21.txt
+file name 2= PSO.OUT/H-SW_22.txt
+file name 2= PSO.OUT/H-SW_23.txt
+file name 2= PSO.OUT/H-SW_24.txt
+file name 2= PSO.OUT/H-SW_25.txt
+file name 2= PSO.OUT/H-SW_26.txt
+file name 2= PSO.OUT/H-SW_27.txt
+file name 2= PSO.OUT/H-SW_28.txt
+file name 2= PSO.OUT/H-SW_29.txt
+file name 2= PSO.OUT/H-SW_30.txt
+file name 2= PSO.OUT/H-SW_31.txt
+file name 2= PSO.OUT/H-SW_32.txt
+file name 2= PSO.OUT/H-SW_33.txt
+file name 2= PSO.OUT/H-SW_34.txt
+file name 2= PSO.OUT/H-SW_35.txt
+file name 2= PSO.OUT/H-SW_36.txt
+file name 2= PSO.OUT/H-SW_37.txt
+file name 2= PSO.OUT/H-SW_38.txt
+file name 3= PSO.OUT/H-GW_RCHG_1.txt
+file name 3= PSO.OUT/H-GW_RCHG_2.txt
+file name 3= PSO.OUT/H-GW_RCHG_3.txt
+file name 3= PSO.OUT/H-GW_RCHG_4.txt
+file name 3= PSO.OUT/H-GW_RCHG_5.txt
+file name 3= PSO.OUT/H-GW_RCHG_6.txt
+file name 3= PSO.OUT/H-GW_RCHG_7.txt
+file name 3= PSO.OUT/H-GW_RCHG_8.txt
+file name 3= PSO.OUT/H-GW_RCHG_9.txt
+file name 3= PSO.OUT/H-GW_RCHG_10.txt
+file name 3= PSO.OUT/H-GW_RCHG_11.txt
+file name 3= PSO.OUT/H-GW_RCHG_12.txt
+file name 3= PSO.OUT/H-GW_RCHG_13.txt
+file name 3= PSO.OUT/H-GW_RCHG_14.txt
+file name 3= PSO.OUT/H-GW_RCHG_15.txt
+file name 3= PSO.OUT/H-GW_RCHG_16.txt
+file name 3= PSO.OUT/H-GW_RCHG_17.txt
+file name 3= PSO.OUT/H-GW_RCHG_18.txt
+file name 3= PSO.OUT/H-GW_RCHG_19.txt
+file name 3= PSO.OUT/H-GW_RCHG_20.txt
+file name 3= PSO.OUT/H-GW_RCHG_21.txt
+file name 3= PSO.OUT/H-GW_RCHG_22.txt
+file name 3= PSO.OUT/H-GW_RCHG_23.txt
+file name 3= PSO.OUT/H-GW_RCHG_24.txt
+file name 3= PSO.OUT/H-GW_RCHG_25.txt
+file name 3= PSO.OUT/H-GW_RCHG_26.txt
+file name 3= PSO.OUT/H-GW_RCHG_27.txt
+file name 3= PSO.OUT/H-GW_RCHG_28.txt
+file name 3= PSO.OUT/H-GW_RCHG_29.txt
+file name 3= PSO.OUT/H-GW_RCHG_30.txt
+file name 3= PSO.OUT/H-GW_RCHG_31.txt
+file name 3= PSO.OUT/H-GW_RCHG_32.txt
+file name 3= PSO.OUT/H-GW_RCHG_33.txt
+file name 3= PSO.OUT/H-GW_RCHG_34.txt
+file name 3= PSO.OUT/H-GW_RCHG_35.txt
+file name 3= PSO.OUT/H-GW_RCHG_36.txt
+file name 3= PSO.OUT/H-GW_RCHG_37.txt
+file name 3= PSO.OUT/H-GW_RCHG_38.txt
+
+
+variable no:    1 ----------------------   
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+variable no:    2 ----------------------   
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+variable no:    3 ----------------------   
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------

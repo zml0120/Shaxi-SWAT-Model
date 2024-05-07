@@ -1,0 +1,9 @@
+"Value","Landuse"
+1,RICE
+2,WWHT
+3,FRST
+4,ORCD
+5,RNGE
+6,URMD
+7,WATR
+8,SWRN

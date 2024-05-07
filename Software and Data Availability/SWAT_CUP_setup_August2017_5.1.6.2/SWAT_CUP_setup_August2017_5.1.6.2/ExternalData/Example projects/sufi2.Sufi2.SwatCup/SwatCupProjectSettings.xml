@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettingsProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Bookmarks>
+    <BookmarkItem>
+      <Key>\sufi2.in\par_inf.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_swedit.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\file.cio</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.in\observed_rch.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.in\var_file_rch.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_extract_rch.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.in\observed.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_rch_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_hru_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_sub_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\95ppu_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_pre.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_run.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_post.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2_extract.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.out\best_par.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.out\best_sim.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.out\goal.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.out\new_pars.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\sufi2.out\summary_stat.txt</Key>
+      <Value />
+    </BookmarkItem>
+  </Bookmarks>
+  <OpenedItems>
+    <string>sufi2\calibration inputs\par_inf.txt</string>
+    <string>sufi2\calibration outputs\95ppu plot</string>
+    <string>sufi2\calibration outputs\95ppu-no-observed plot</string>
+  </OpenedItems>
+  <ProjectVersion>5.1.6.2</ProjectVersion>
+  <InitialVersion>5.1.5.4</InitialVersion>
+  <IsMultipartEnabled>false</IsMultipartEnabled>
+  <MultipartCount>1000</MultipartCount>
+  <ActiveViewNodePath>sufi2\calibration outputs\95ppu-no-observed plot</ActiveViewNodePath>
+  <IncludeSub>false</IncludeSub>
+  <IncludeHRU>false</IncludeHRU>
+  <IncludeRch>true</IncludeRch>
+  <SWATVersion>v2012</SWATVersion>
+  <ProcessorArchitecture>x64</ProcessorArchitecture>
+</ProjectSettingsProperties>

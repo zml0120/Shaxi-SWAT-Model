@@ -1,0 +1,92 @@
+no of simulations=  3
+no_iterations=  4
+beharioral_threshold=  0.100000
+weight=  0.200000
+use_pre_best=  0
+no_parameters=  4
+1  r__CN2.mgt                               -0.200000       0.200000        0.200000       
+2  v__ALPHA_BF.gw                           0.000000        1.000000        0.500000       
+3  v__GW_DELAY.gw                           30.000000       450.000000      210.000000     
+4  v__GWQMN.gw                              0.000000        2.000000        1.000000       
+-----------  reading observation file----------
+number of observed variables=  4
+Fn_Type=  9,  RSR
+objective function threshold=  0.500000
+cariable name= FLOW_OUT_1
+variable wt= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+no observation= 0.000000
+cariable name= FLOW_OUT_3
+variable wt= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+no observation= 0.000000
+cariable name= FLOW_OUT_7
+variable wt= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+no observation= 0.000000
+cariable name= NO3_OUT_7
+variable wt= 1.000000
+dynamic flow separation= -1
+constant flow threshold= -1.000000
+no observation= 0.000000
+
+-----------------end of observation----------------------------
+
+Obj_fn_type=  9
+variable file names
+1- PSO.OUT\FLOW_OUT_1.txt
+2- PSO.OUT\FLOW_OUT_3.txt
+3- PSO.OUT\FLOW_OUT_7.txt
+4- PSO.OUT\NO3_OUT_7.txt
+
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt
+1- PSO.OUT\beh_FLOW_OUT_1.txt
+2- PSO.OUT\beh_FLOW_OUT_3.txt
+3- PSO.OUT\beh_FLOW_OUT_7.txt
+4- PSO.OUT\beh_NO3_OUT_7.txt

@@ -1,0 +1,7 @@
+20      : number of subbasins
+3          : number of outlets (program reads only the first 5 subbasins or any number specified here)
+
+1
+3
+7
+

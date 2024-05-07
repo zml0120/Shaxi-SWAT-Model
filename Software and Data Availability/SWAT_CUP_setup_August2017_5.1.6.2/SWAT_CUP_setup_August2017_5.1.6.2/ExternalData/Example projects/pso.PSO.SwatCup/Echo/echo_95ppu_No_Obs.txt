@@ -1,0 +1,58 @@
+echo of 95ppu_No_Obs.CPP
+--------------------------------------
+Max size of arrays:
+Max number of simulations=    2,000
+Max number of observed data=  30,000
+Max number of obs. variables= 40
+Max number of parameters=     800
+-------------------------------------
+
+---- reading definition file -------------
+program name= PSO
+Number of variables= 10
+variable names:
+H-PET_1.txt
+H-SW_1.txt
+H-GW_RCHG_1.txt
+S-SNOW_1.txt
+S-PET_1.txt
+S-AET_1.txt
+S-WYLD_1.txt
+R-FLOW_1.txt
+R-EVAP_1.txt
+R-SED_OUT_1.txt
+number of observations= 144
+
+number of good simulations=  12
+-------- Transpose -------------
+tps file= tps_H-PET_1.txt
+sim_file=  PSO.OUT\H-PET_1.txt
+tps file= tps_H-SW_1.txt
+sim_file=  PSO.OUT\H-SW_1.txt
+tps file= tps_H-GW_RCHG_1.txt
+sim_file=  PSO.OUT\H-GW_RCHG_1.txt
+tps file= tps_S-SNOW_1.txt
+sim_file=  PSO.OUT\S-SNOW_1.txt
+tps file= tps_S-PET_1.txt
+sim_file=  PSO.OUT\S-PET_1.txt
+tps file= tps_S-AET_1.txt
+sim_file=  PSO.OUT\S-AET_1.txt
+tps file= tps_S-WYLD_1.txt
+sim_file=  PSO.OUT\S-WYLD_1.txt
+tps file= tps_R-FLOW_1.txt
+sim_file=  PSO.OUT\R-FLOW_1.txt
+tps file= tps_R-EVAP_1.txt
+sim_file=  PSO.OUT\R-EVAP_1.txt
+tps file= tps_R-SED_OUT_1.txt
+sim_file=  PSO.OUT\R-SED_OUT_1.txt
+-------------- 95ppu ----------
+tps_file= tps_H-PET_1.txt
+tps_file= tps_H-SW_1.txt
+tps_file= tps_H-GW_RCHG_1.txt
+tps_file= tps_S-SNOW_1.txt
+tps_file= tps_S-PET_1.txt
+tps_file= tps_S-AET_1.txt
+tps_file= tps_S-WYLD_1.txt
+tps_file= tps_R-FLOW_1.txt
+tps_file= tps_R-EVAP_1.txt
+tps_file= tps_R-SED_OUT_1.txt

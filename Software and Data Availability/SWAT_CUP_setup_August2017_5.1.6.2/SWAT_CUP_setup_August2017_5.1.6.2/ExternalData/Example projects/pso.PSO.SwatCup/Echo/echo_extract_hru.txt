@@ -1,0 +1,32 @@
+Echo of extract_hru_PSO.cpp
+----------------------------
+-------------------- Reading PSO_extract_rch.def --------------
+swat file name=   output.hru
+number of variables= 2
+column number of variables=  11  14  
+total hrus in the project= 38
+number of reaches for variable 1=  1
+reach numbers for variable 1=  1  
+number of reaches for variable 2=  1
+reach numbers for variable 2=  3  
+
+total number of rchs to get=  2
+beg_sim_year=  1990
+end_sim_year=  2001
+time_step=  2
+--------------------  end of reading def file --------------
+Names of files containing simulated variables:
+file name 1= PSO.OUT\PET_1.txt
+file name 2= PSO.OUT\SW_END_3.txt
+****   PSO_obs.dat   ***********
+total number of variables=  2
+****   Time_Array   ***********
+
+no_vars= 1 
+     4     5    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24
+
+no_vars= 2 
+     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21
+    22
+-------------------------------------
+

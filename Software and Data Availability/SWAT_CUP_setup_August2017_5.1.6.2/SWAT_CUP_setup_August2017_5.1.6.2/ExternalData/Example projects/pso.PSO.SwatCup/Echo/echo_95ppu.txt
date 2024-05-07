@@ -1,0 +1,36 @@
+echo of 95ppu_SUFI2.CPP
+--------------------------------------
+Max size of arrays:
+Max number of simulations=    2,000
+Max number of observed data=  20,000
+Max number of obs. variables= 400
+Max number of parameters=     800
+-------------------------------------
+
+no_obs_variables=  4
+obj_fn_type=  9
+obj_threshold=  0.500000
+FLOW_OUT_1  no_obs = 141
+FLOW_OUT_3  no_obs = 141
+FLOW_OUT_7  no_obs = 121
+NO3_OUT_7  no_obs = 12
+FLOW_OUT_1.txt  
+FLOW_OUT_3.txt  
+FLOW_OUT_7.txt  
+NO3_OUT_7.txt  
+out_file=  PSO.OUT\tps_FLOW_OUT_1.txt
+in_file=  PSO.OUT\beh_FLOW_OUT_1.txt
+out_file=  PSO.OUT\tps_FLOW_OUT_3.txt
+in_file=  PSO.OUT\beh_FLOW_OUT_3.txt
+out_file=  PSO.OUT\tps_FLOW_OUT_7.txt
+in_file=  PSO.OUT\beh_FLOW_OUT_7.txt
+out_file=  PSO.OUT\tps_NO3_OUT_7.txt
+in_file=  PSO.OUT\beh_NO3_OUT_7.txt
+file_name 1 = FLOW_OUT_1.txt
+file_name 2 = FLOW_OUT_3.txt
+file_name 3 = FLOW_OUT_7.txt
+file_name 4 = NO3_OUT_7.txt
+tps_file_name1=PSO.OUT\tps_FLOW_OUT_1.txt
+tps_file_name2=PSO.OUT\tps_FLOW_OUT_3.txt
+tps_file_name3=PSO.OUT\tps_FLOW_OUT_7.txt
+tps_file_name4=PSO.OUT\tps_NO3_OUT_7.txt

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettingsProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Bookmarks>
+    <BookmarkItem>
+      <Key>\para_sol.in\parasol.in</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.in\parasol_par.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\file.cio</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\absolute_swat_values.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.in\observed_rch.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.in\var_file_rch.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\parasol_extract_rch.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.in\parasol_obs.dat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.in\var_file_name.txt</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_rch_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_hru_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\extract_sub_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\95ppu_no_obs.def</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\programbatch.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\parasol_extract.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\parasol_run.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\parasol_post.bat</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.out\bestpar.out</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.out\goodpar.out</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.out\parasol.out</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.out\parasol_goal.out</Key>
+      <Value />
+    </BookmarkItem>
+    <BookmarkItem>
+      <Key>\para_sol.out\summary_stat.out</Key>
+      <Value />
+    </BookmarkItem>
+  </Bookmarks>
+  <OpenedItems />
+  <ProjectVersion>5.1.5.4</ProjectVersion>
+  <InitialVersion>5.1.5.4</InitialVersion>
+  <IsMultipartEnabled>false</IsMultipartEnabled>
+  <MultipartCount>1000</MultipartCount>
+  <ActiveViewNodePath />
+  <IncludeSub>false</IncludeSub>
+  <IncludeHRU>false</IncludeHRU>
+  <IncludeRch>true</IncludeRch>
+  <SWATVersion>v2012</SWATVersion>
+  <ProcessorArchitecture>x64</ProcessorArchitecture>
+</ProjectSettingsProperties>

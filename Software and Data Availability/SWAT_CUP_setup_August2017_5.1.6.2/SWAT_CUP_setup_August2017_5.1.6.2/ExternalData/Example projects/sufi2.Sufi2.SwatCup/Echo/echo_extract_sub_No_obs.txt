@@ -1,0 +1,186 @@
+Echo of extract_sub_No_obs.exe
+----------------------------------------
+Max. size of arrays:
+Max number of observed variables= 50
+Max number of subbasins=          100,000
+Max number of observed data=      50,000
+----------------------------------------
+
+swat-cup program=   SUFI2
+swat file name=   output.sub
+no_vars= 4
+column_no=  6  7  8  13  
+Var_Names =    S-SNOW  S-PET  S-AET  S-WYLD
+total_subs_in_project= 20
+no_subs_to_get for var 1 =  20
+sub_no=          ALL  (e.g., 1,2,3...,20)
+
+no_subs_to_get for var 2 =  20
+sub_no=          ALL  (e.g., 1,2,3...,20)
+
+no_subs_to_get for var 3 =  2
+sub_no=        1  2  
+
+no_subs_to_get for var 4 =  4
+sub_no=        1  5  10  20  
+
+
+total_subs_to_get=  46
+beg_sim_year=  1990
+end_sim_year=  2001
+time_step=  2
+
+--------------------  Incrementing files --------------
+no_vars=  4
+totl_subs_in_project=  20
+file name 1= SUFI2.OUT/S-SNOW_1.txt
+file name 1= SUFI2.OUT/S-SNOW_2.txt
+file name 1= SUFI2.OUT/S-SNOW_3.txt
+file name 1= SUFI2.OUT/S-SNOW_4.txt
+file name 1= SUFI2.OUT/S-SNOW_5.txt
+file name 1= SUFI2.OUT/S-SNOW_6.txt
+file name 1= SUFI2.OUT/S-SNOW_7.txt
+file name 1= SUFI2.OUT/S-SNOW_8.txt
+file name 1= SUFI2.OUT/S-SNOW_9.txt
+file name 1= SUFI2.OUT/S-SNOW_10.txt
+file name 1= SUFI2.OUT/S-SNOW_11.txt
+file name 1= SUFI2.OUT/S-SNOW_12.txt
+file name 1= SUFI2.OUT/S-SNOW_13.txt
+file name 1= SUFI2.OUT/S-SNOW_14.txt
+file name 1= SUFI2.OUT/S-SNOW_15.txt
+file name 1= SUFI2.OUT/S-SNOW_16.txt
+file name 1= SUFI2.OUT/S-SNOW_17.txt
+file name 1= SUFI2.OUT/S-SNOW_18.txt
+file name 1= SUFI2.OUT/S-SNOW_19.txt
+file name 1= SUFI2.OUT/S-SNOW_20.txt
+file name 2= SUFI2.OUT/S-PET_1.txt
+file name 2= SUFI2.OUT/S-PET_2.txt
+file name 2= SUFI2.OUT/S-PET_3.txt
+file name 2= SUFI2.OUT/S-PET_4.txt
+file name 2= SUFI2.OUT/S-PET_5.txt
+file name 2= SUFI2.OUT/S-PET_6.txt
+file name 2= SUFI2.OUT/S-PET_7.txt
+file name 2= SUFI2.OUT/S-PET_8.txt
+file name 2= SUFI2.OUT/S-PET_9.txt
+file name 2= SUFI2.OUT/S-PET_10.txt
+file name 2= SUFI2.OUT/S-PET_11.txt
+file name 2= SUFI2.OUT/S-PET_12.txt
+file name 2= SUFI2.OUT/S-PET_13.txt
+file name 2= SUFI2.OUT/S-PET_14.txt
+file name 2= SUFI2.OUT/S-PET_15.txt
+file name 2= SUFI2.OUT/S-PET_16.txt
+file name 2= SUFI2.OUT/S-PET_17.txt
+file name 2= SUFI2.OUT/S-PET_18.txt
+file name 2= SUFI2.OUT/S-PET_19.txt
+file name 2= SUFI2.OUT/S-PET_20.txt
+file name 3= SUFI2.OUT/S-AET_1.txt
+file name 3= SUFI2.OUT/S-AET_2.txt
+file name 4= SUFI2.OUT/S-WYLD_1.txt
+file name 4= SUFI2.OUT/S-WYLD_5.txt
+file name 4= SUFI2.OUT/S-WYLD_10.txt
+file name 4= SUFI2.OUT/S-WYLD_20.txt
+sim files incremented
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------

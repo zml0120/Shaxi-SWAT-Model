@@ -1,0 +1,9 @@
+Echo of SUFI2_make_input.cpp program
+--------------------------------------
+8
+number of parameters=   4
+number of simulation=   8
+1   r__CN2.mgt       -0.200000         0.200000
+2   v__ALPHA_BF.gw        0.000000         1.000000
+3   v__GW_DELAY.gw       30.000000       450.000000
+4   v__GWQMN.gw        0.000000         2.000000

@@ -1,0 +1,190 @@
+Swat_Edit (Swat Parameters Editor 2012) Version 2.5.9.2
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+r__CN2.mgt    0.024251
+
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000010001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000010002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000020001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000020002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000030001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000030002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000040001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000040002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000050001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000050002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '85.012830'  Original: '83'  Old: '85.653760' }  |  File: '000060001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000060002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000070001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000080001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000080002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '81.940080'  Original: '80'  Old: '82.557840' }  |  File: '000080003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000090001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000090002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000100001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '81.940080'  Original: '80'  Old: '82.557840' }  |  File: '000100002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000110001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000110002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000120001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000130001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '81.940080'  Original: '80'  Old: '82.557840' }  |  File: '000130002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000140001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000140002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000150001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000150002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '81.940080'  Original: '80'  Old: '82.557840' }  |  File: '000150003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000160001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000160002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000170001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000180001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000190001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000190002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '80.915820'  Original: '79'  Old: '81.525860' }  |  File: '000200001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '86.037080'  Original: '84'  Old: '86.685730' }  |  File: '000200002.mgt'  |  Line: '11'
+
+Modified Values:  38 in 38 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__ALPHA_BF.gw    0.182285
+
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000010001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000010002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000020001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000020002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000030001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000030002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000040001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000040002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000050001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000050002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000060001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000060002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000070001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000080001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000080002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000080003.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000090001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000090002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000100001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000100002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000110001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000110002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000120001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000130001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000130002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000140001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000140002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000150001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000150002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000150003.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000160001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000160002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000170001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000180001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000190001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000190002.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000200001.gw'  |  Line: '5'
+Parameter: 'ALPHA_BF'  |  Value: { New: '0.182285'  Original: '0.048'  Old: '0.898305' }  |  File: '000200002.gw'  |  Line: '5'
+
+Modified Values:  38 in 38 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__GW_DELAY.gw    154.541000
+
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000010001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000010002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000020001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000020002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000030001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000030002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000040001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000040002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000050001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000050002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000060001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000060002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000070001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000080001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000080002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000080003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000090001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000090002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000100001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000100002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000110001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000110002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000120001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000130001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000130002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000140001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000140002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000150001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000150002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000150003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000160001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000160002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000170001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000180001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000190001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000190002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000200001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '154.541000'  Original: '31'  Old: '309.537000' }  |  File: '000200002.gw'  |  Line: '4'
+
+Modified Values:  38 in 38 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__GWQMN.gw    0.234818
+
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000010001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000010002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000020001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000020002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000030001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000030002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000040001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000040002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000050001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000050002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000060001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000060002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000070001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000080001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000080002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000080003.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000090001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000090002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000100001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000100002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000110001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000110002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000120001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000130001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000130002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000140001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000140002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000150001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000150002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000150003.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000160001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000160002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000170001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000180001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000190001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000190002.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000200001.gw'  |  Line: '6'
+Parameter: 'GWQMN'  |  Value: { New: '0.234818'  Original: '0'  Old: '0.997221' }  |  File: '000200002.gw'  |  Line: '6'
+
+Modified Values:  38 in 38 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+4 parameters in 76 files modified successfully.

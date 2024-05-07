@@ -1,0 +1,32 @@
+Echo of GLUE_95PPU
+---------------------------------
+Max array limits:
+MAX_SIMULATIONS=        30,000
+MAX_OBSERVATIONS=       5,000
+MAX_OBSERVED_VARIABLES= 30
+MAX_PARAMETERS=         300
+
+------------  read observation -----
+Number of observed variables= 3
+no_observation 1 = 141
+no_observation 2 = 141
+no_observation 3 = 121
+  4
+Variable_Name 1 = FLOW_OUT_1.txt
+Variable_Name 2 = FLOW_OUT_3.txt
+Variable_Name 3 = FLOW_OUT_7.txt
+-------reading best sim---------------------
+no of good sims=  6 
+best_sim=    2
+------------ Fix paraout
+opened  1  GLUE.OUT\FLOW_OUT_1.txt
+opened  2  GLUE.OUT\FLOW_OUT_3.txt
+opened  3  GLUE.OUT\FLOW_OUT_7.txt
+----------  Transpose
+TPS_Files[i]=  GLUE.OUT\tps_FLOW_OUT_1.txt
+in_file=  GLUE.OUT\FLOW_OUT_1.txt
+TPS_Files[i]=  GLUE.OUT\tps_FLOW_OUT_3.txt
+in_file=  GLUE.OUT\FLOW_OUT_3.txt
+TPS_Files[i]=  GLUE.OUT\tps_FLOW_OUT_7.txt
+in_file=  GLUE.OUT\FLOW_OUT_7.txt
+------------------ 95PPU   

@@ -1,0 +1,155 @@
+Echo of extract_hru_No_Obs.exe
+----------------------------------------
+Max. size of arrays:
+Max number of variables= 50
+Max number of hrus=      100,000
+Max simulation time=     50,000
+----------------------------------------
+
+Prog=   SUFI2
+swat_file=   output.hru
+no_vars= 3
+column_no=  11  14  16  
+Var_Names=    H-PET  H-SW  H-GW_RCHG
+total_subs_in_project= 20
+
+total_hrus_in_project= 38
+
+no_hrus_to_get for var 1=  38
+hru_no=    ALL (e.g., 1,2,3,...38)
+
+no_hrus_to_get for var 2=  2
+hru_no=  3  4  
+
+no_hrus_to_get for var 3=  1
+hru_no=  1  
+
+
+total_hrus_to_get=  41
+
+beg_sim_year=  1990
+end_sim_year=  2001
+time_step=  2
+
+--------------------  Incrementing files --------------
+no_vars=  3
+totl_hrus_in_project=  38
+file_name 1= SUFI2.OUT/H-PET_1.txt
+file_name 1= SUFI2.OUT/H-PET_2.txt
+file_name 1= SUFI2.OUT/H-PET_3.txt
+file_name 1= SUFI2.OUT/H-PET_4.txt
+file_name 1= SUFI2.OUT/H-PET_5.txt
+file_name 1= SUFI2.OUT/H-PET_6.txt
+file_name 1= SUFI2.OUT/H-PET_7.txt
+file_name 1= SUFI2.OUT/H-PET_8.txt
+file_name 1= SUFI2.OUT/H-PET_9.txt
+file_name 1= SUFI2.OUT/H-PET_10.txt
+file_name 1= SUFI2.OUT/H-PET_11.txt
+file_name 1= SUFI2.OUT/H-PET_12.txt
+file_name 1= SUFI2.OUT/H-PET_13.txt
+file_name 1= SUFI2.OUT/H-PET_14.txt
+file_name 1= SUFI2.OUT/H-PET_15.txt
+file_name 1= SUFI2.OUT/H-PET_16.txt
+file_name 1= SUFI2.OUT/H-PET_17.txt
+file_name 1= SUFI2.OUT/H-PET_18.txt
+file_name 1= SUFI2.OUT/H-PET_19.txt
+file_name 1= SUFI2.OUT/H-PET_20.txt
+file_name 1= SUFI2.OUT/H-PET_21.txt
+file_name 1= SUFI2.OUT/H-PET_22.txt
+file_name 1= SUFI2.OUT/H-PET_23.txt
+file_name 1= SUFI2.OUT/H-PET_24.txt
+file_name 1= SUFI2.OUT/H-PET_25.txt
+file_name 1= SUFI2.OUT/H-PET_26.txt
+file_name 1= SUFI2.OUT/H-PET_27.txt
+file_name 1= SUFI2.OUT/H-PET_28.txt
+file_name 1= SUFI2.OUT/H-PET_29.txt
+file_name 1= SUFI2.OUT/H-PET_30.txt
+file_name 1= SUFI2.OUT/H-PET_31.txt
+file_name 1= SUFI2.OUT/H-PET_32.txt
+file_name 1= SUFI2.OUT/H-PET_33.txt
+file_name 1= SUFI2.OUT/H-PET_34.txt
+file_name 1= SUFI2.OUT/H-PET_35.txt
+file_name 1= SUFI2.OUT/H-PET_36.txt
+file_name 1= SUFI2.OUT/H-PET_37.txt
+file_name 1= SUFI2.OUT/H-PET_38.txt
+file_name 2= SUFI2.OUT/H-SW_3.txt
+file_name 2= SUFI2.OUT/H-SW_4.txt
+file_name 3= SUFI2.OUT/H-GW_RCHG_1.txt
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------
+
+
+ time_step= 2  year= 1990   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1991   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1992   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1993   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1994   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1995   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1996   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1997   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1998   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 1999   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2000   end= 12
+---------------------------------------------------------
+ time_step= 2  year= 2001   end= 12
+---------------------------------------------------------

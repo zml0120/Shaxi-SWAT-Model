@@ -1,0 +1,13 @@
+Echo of GLUE_Validate.exe
+---------------------------------
+Max array limits:
+MAX_OBSERVATIONS=       5,000
+MAX_OBSERVED_VARIABLES= 300
+MAX_PARAMETERS=         300
+--------------------------
+------------  read observation -----
+Number of observed variables= 3
+no_observation 1 = 141
+no_observation 2 = 141
+no_observation 3 = 121
+4
